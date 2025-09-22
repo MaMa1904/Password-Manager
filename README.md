@@ -1,5 +1,4 @@
 # Password Manager
-## Video URL : https://youtu.be/j3KtkwNwLjg
 
 # Description :
  Hi, my name is Mahi Priya Boppudi. My GitHub Mama1904 , edX is mahi_1908, I'm from Vadodara, India, and today's date is April 24, 2025.
